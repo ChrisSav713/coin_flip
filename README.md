@@ -1,2 +1,2 @@
 # coin_flip
-MERN > React > APIs > Coin Fliping
+MERN > React > APIs > Coin Flipping
